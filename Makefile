@@ -19,3 +19,6 @@ build:
 # Docker Container
 run:
 	python3 main.py
+
+convert:
+	make up
